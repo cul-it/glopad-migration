@@ -18,11 +18,23 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 * Security problems
 * Web services in use
 * Object counts
-* Functions broken by mod_security
+* Functions broken in current application
 
 ### Stakeholders
 
+* CUL
+* CUL-IT
+* CUL Library Systems
+* Josh Young
+
 ### Issues
+
+* Funding
+* Ownership
+* Responsibility for preservation
+* Utility
+* Value of the collection
+* Security Vulnerabilities
 
 ### Opinions
 
