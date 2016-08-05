@@ -13,7 +13,10 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 
 # Current state of GloPAD
 
-# Security problems
+* Security problems
+* Web services in use
+* Object counts
+* Functions broken by mod_security
 
 # Stakeholders
 
