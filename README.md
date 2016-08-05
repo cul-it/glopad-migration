@@ -1,2 +1,2 @@
-# Proposal for maintaining GloPAD
+# GloPAD - retirement planning
 
