@@ -15,32 +15,42 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 
 * From GloPAC
   > GloPAD is a multimedia, multilingual, Web-accessible database containing digital images, texts, video clips, sound recordings, and complex media objects (such as 3-D images) related to the performing arts from around the world.
-* GloPAD is a custom built web application written in php with a postgres database back end. There is a Public Interface (pi) for users to search and browse, and an Editor Interface (ei) for data entry and editing.
+* GloPAD is a custom built web application written in php with a postgres database back end. There is a [Public Interface (pi)](http://www.glopad.org/pi/) for users to search and browse, and an [Editor Interface (ei)](http://www.glopad.org/ei/) for data entry and editing, and an [online help system](http://www.glopac.org/exported_help/glopad_ei_help.htm) for the Editors
 * Metadata Information - [GloPAD Metadata Standards](http://www.glopac.org/about/aboutMetadata.php)
 
 ### Who uses GloPAD
 
-* Web hit counts
+* Web hit counts (PIWIK)
+  * 2016 - 54,098 visits; 361,492 pageviews (non _js version)
+  * 2015 - 93,067 visits; 415,943 pageviews
 * Research
 * Associated applications
 
 ### Current state of GloPAD
 
 * Security problems
+  >The AppSpider scan completed, and found 77 high-level vulnerabilities (a mixture of SQL injection and local file inclusion) out of a total of 870 issues.
+  -Chris Manly
+
+   * According to AppSpiderEnterprise, it would take an Application Developer an estimated 579 man hours, and a Database Administrator an estimated 67 man hours to fix the issues.
 * Web services in use
 * Object counts
   * see object_counts.md
 * Functions broken in current application
   * OAI harvesting
+  * the main custom search function, for both the public interface and the editors’ interface
+     * [GloPAD Records Text Search](http://www.glopad.org/pi/en/search_browse.php) does work for pi only
+  * the record create and update functionality on the editors’ interface
 
 ### Stakeholders
 
 * CUL
 * CUL-IT
 * CUL Library Systems
-* Josh Young
 * GloPAC - Global Performing Arts Consortium - [About GloPAC] (http://www.glopac.org/about/index.php)
-* Mario Einaudi Center for International Studies East Asia Program
+* Mario Einaudi Center for International Studies [East Asia Program](https://eap.einaudi.cornell.edu/)
+* Josh Young, principal investigator and [East Asia Program Manager](https://eap.einaudi.cornell.edu/person/joshua-young)
+* Mai Shaikhanuar-Cota, the [Cornell East Asia Series Managing Editor](https://eap.einaudi.cornell.edu/person/mai-shaikhanuar-cota)
 
 
 ### Issues
