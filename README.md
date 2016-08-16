@@ -14,8 +14,9 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 ### What is GloPAD
 
 * From GloPAC
-** GloPAD is a multimedia, multilingual, Web-accessible database containing digital images, texts, video clips, sound recordings, and complex media objects (such as 3-D images) related to the performing arts from around the world.
-** x
+  > GloPAD is a multimedia, multilingual, Web-accessible database containing digital images, texts, video clips, sound recordings, and complex media objects (such as 3-D images) related to the performing arts from around the world.
+* GloPAD is a custom built web application written in php with a postgres database back end. There is a Public Interface (pi) for users to search and browse, and an Editor Interface (ei) for data entry and editing.
+* Metadata Information - [GloPAD Metadata Standards](http://www.glopac.org/about/aboutMetadata.php)
 
 ### Who uses GloPAD
 
@@ -28,7 +29,9 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 * Security problems
 * Web services in use
 * Object counts
+  * see object_counts.md
 * Functions broken in current application
+  * OAI harvesting
 
 ### Stakeholders
 
@@ -36,6 +39,9 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 * CUL-IT
 * CUL Library Systems
 * Josh Young
+* GloPAC - Global Performing Arts Consortium - [About GloPAC] (http://www.glopac.org/about/index.php)
+* Mario Einaudi Center for International Studies East Asia Program
+
 
 ### Issues
 
@@ -48,7 +54,4 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 
 ### Opinions
 
-Stakeholders | issue1 | issue2 | issue3 |
----|---|---|---
-stakeholder1 | opinion11 | opinion12 | opinion13
-stakeholder2 | opinion21 | opinion22 | opinion23
+Stakeholder's opinion on each issue
