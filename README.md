@@ -15,12 +15,14 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 
 * From GloPAC
   > GloPAD is a multimedia, multilingual, Web-accessible database containing digital images, texts, video clips, sound recordings, and complex media objects (such as 3-D images) related to the performing arts from around the world.
-* GloPAD is a custom built web application written in php with a postgres database back end. There is a Public Interface (pi) for users to search and browse, and an Editor Interface (ei) for data entry and editing.
+* GloPAD is a custom built web application written in php with a postgres database back end. There is a [Public Interface (pi)](http://www.glopad.org/pi/) for users to search and browse, and an [Editor Interface (ei)](http://www.glopad.org/ei/) for data entry and editing, and an [online help system](http://www.glopac.org/exported_help/glopad_ei_help.htm) for the Editors
 * Metadata Information - [GloPAD Metadata Standards](http://www.glopac.org/about/aboutMetadata.php)
 
 ### Who uses GloPAD
 
-* Web hit counts
+* Web hit counts (PIWIK)
+  * 2016 - 54,098 visits; 361,492 pageviews (non _js version)
+  * 2015 - 93,067 visits; 415,943 pageviews
 * Research
 * Associated applications
 
