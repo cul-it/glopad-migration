@@ -40,9 +40,10 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 * CUL
 * CUL-IT
 * CUL Library Systems
-* Josh Young
+* Josh Young, principal investigator and [East Asia Program Manager](https://eap.einaudi.cornell.edu/person/joshua-young)
 * GloPAC - Global Performing Arts Consortium - [About GloPAC] (http://www.glopac.org/about/index.php)
-* Mario Einaudi Center for International Studies East Asia Program
+* Mario Einaudi Center for International Studies [East Asia Program](https://eap.einaudi.cornell.edu/)
+* Mai Shaikhanuar-Cota, the [Cornell East Asia Series Managing Editor](https://eap.einaudi.cornell.edu/person/mai-shaikhanuar-cota)
 
 
 ### Issues
