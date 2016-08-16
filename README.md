@@ -29,20 +29,27 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 ### Current state of GloPAD
 
 * Security problems
+  >The AppSpider scan completed, and found 77 high-level vulnerabilities (a mixture of SQL injection and local file inclusion) out of a total of 870 issues.
+  -Chris Manly
+
+   * According to AppSpiderEnterprise, it would take an Application Developer an estimated 579 man hours, and a Database Administrator an estimated 67 man hours to fix the issues.
 * Web services in use
 * Object counts
   * see object_counts.md
 * Functions broken in current application
   * OAI harvesting
+  * the main custom search function, for both the public interface and the editors’ interface
+     * [GloPAD Records Text Search](http://www.glopad.org/pi/en/search_browse.php) does work for pi only
+  * the record create and update functionality on the editors’ interface
 
 ### Stakeholders
 
 * CUL
 * CUL-IT
 * CUL Library Systems
-* Josh Young, principal investigator and [East Asia Program Manager](https://eap.einaudi.cornell.edu/person/joshua-young)
 * GloPAC - Global Performing Arts Consortium - [About GloPAC] (http://www.glopac.org/about/index.php)
 * Mario Einaudi Center for International Studies [East Asia Program](https://eap.einaudi.cornell.edu/)
+* Josh Young, principal investigator and [East Asia Program Manager](https://eap.einaudi.cornell.edu/person/joshua-young)
 * Mai Shaikhanuar-Cota, the [Cornell East Asia Series Managing Editor](https://eap.einaudi.cornell.edu/person/mai-shaikhanuar-cota)
 
 
