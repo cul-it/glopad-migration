@@ -15,7 +15,7 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
 
 * From GloPAC
 ** GloPAD is a multimedia, multilingual, Web-accessible database containing digital images, texts, video clips, sound recordings, and complex media objects (such as 3-D images) related to the performing arts from around the world.
-** x
+** Metadata Information - [GloPAD Metadata Standards](http://www.glopac.org/about/aboutMetadata.php)
 
 ### Who uses GloPAD
 
