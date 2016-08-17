@@ -25,6 +25,7 @@ GloPAD is a grant funded web application written by CUL 2002-2009. The applicati
   * 2015 - 93,067 visits; 415,943 pageviews
 * Research
 * Associated applications
+  * [JPARC](http://www.glopad.org/jparc/) - uses glopad apis for some of it's data. It is a Drupal 5 application. GloPAC is working on a Drupal 7 version of JPARC.
 
 ### Current state of GloPAD
 
