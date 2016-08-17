@@ -2,88 +2,88 @@
 
 This is a list of the data tables and their record counts.	1/16/2016
 
-`http://www.glopad.org/ei/php/?req=http%3A//www.glopad.org/ei/php/browse/page_browse.php`
+`http://www.glopad.org/ei/php/?req=http%3A//www.glopad.org/ei/php/browse/page\_browse.php`
 
-d_date	53837
-d_digdoc	7831
-d_component	4542
-d_source_object	4499
-d_performance	3609
-d_person	2416
-d_person_altname	2077
-d_piece_altname	1635
-d_structure_division	1375
-d_piece	1285
-d_collection	1084
-d_character	957
-d_production	934
-d_place_altname	695
-d_place	515
-d_production_altname	477
-d_bibliography	404
-d_biblio_author	361
-d_series	207
-d_pa_group	174
-d_function	152
-d_pa_group_altname	140
-d_component_type	136
-d_person_geographic_affiliation	136
-d_format	115
-d_place_affiliation	91
-d_pa_altname	85
-d_person_russian	70
-d_character_type	64
-d_performing_arts	59
-d_role	52
-d_culture	48
-d_piece_affiliation	39
-d_era	38
-d_formatsubcategory	36
-d_credit_line	36
-d_country	32
-d_section	32
-d_period	30
-d_instrumentation	27
-d_century	26
-d_category	26
-d_ordering_info	26
-d_mime_type	22
-d_pa_geographic_affiliation	22
-d_instrument	20
-d_biblio_type_of_manuscript	18
-d_arts_of_performance	17
-d_person_altnametype	15
-d_place_type	14
-d_language	13
-d_production_artsofperformance	13
-d_month	12
-d_named_genre	11
-d_associated_movement	11
-d_formatcategory	11
-d_size_measure	11
-d_biblio_type_of_work	10
-d_biblio_correspondence	10
-d_piece_altname_type	9
-d_part_of_body	9
-d_piece_relation_type	8
-d_biblio_emedium	8
-d_pa_altnametype	6
-d_frame_rate	6
-d_production_type	5
-d_authority	5
-d_pa_group_altnametype	4
-d_sound_field	4
-d_color_palette	3
-d_production_altname_type	3
-d_user_preference	2
-d_biblio_persontype	2
-d_institution	0
-d_biblio_identifier_type	0
-d_altname_type	0
-d_component_geographic_affiliation	0
-d_person_affiliation	0
-d_person_group	0
-d_piece_altnametype	0
-d_biblio_authortype	0
-d_place_altnametype	0
-d_repository	0
+* d\_date	53837
+* d\_digdoc	7831
+* d\_component	4542
+* d\_source\_object	4499
+* d\_performance	3609
+* d\_person	2416
+* d\_person\_altname	2077
+* d\_piece\_altname	1635
+* d\_structure\_division	1375
+* d\_piece	1285
+* d\_collection	1084
+* d\_character	957
+* d\_production	934
+* d\_place\_altname	695
+* d\_place	515
+* d\_production\_altname	477
+* d\_bibliography	404
+* d\_biblio\_author	361
+* d\_series	207
+* d\_pa\_group	174
+* d\_function	152
+* d\_pa\_group\_altname	140
+* d\_component\_type	136
+* d\_person\_geographic\_affiliation	136
+* d\_format	115
+* d\_place\_affiliation	91
+* d\_pa\_altname	85
+* d\_person\_russian	70
+* d\_character\_type	64
+* d\_performing\_arts	59
+* d\_role	52
+* d\_culture	48
+* d\_piece\_affiliation	39
+* d\_era	38
+* d\_formatsubcategory	36
+* d\_credit\_line	36
+* d\_country	32
+* d\_section	32
+* d\_period	30
+* d\_instrumentation	27
+* d\_century	26
+* d\_category	26
+* d\_ordering\_info	26
+* d\_mime\_type	22
+* d\_pa\_geographic\_affiliation	22
+* d\_instrument	20
+* d\_biblio\_type\_of\_manuscript	18
+* d\_arts\_of\_performance	17
+* d\_person\_altnametype	15
+* d\_place\_type	14
+* d\_language	13
+* d\_production\_artsofperformance	13
+* d\_month	12
+* d\_named\_genre	11
+* d\_associated\_movement	11
+* d\_formatcategory	11
+* d\_size\_measure	11
+* d\_biblio\_type\_of\_work	10
+* d\_biblio\_correspondence	10
+* d\_piece\_altname\_type	9
+* d\_part\_of\_body	9
+* d\_piece\_relation\_type	8
+* d\_biblio\_emedium	8
+* d\_pa\_altnametype	6
+* d\_frame\_rate	6
+* d\_production\_type	5
+* d\_authority	5
+* d\_pa\_group\_altnametype	4
+* d\_sound\_field	4
+* d\_color\_palette	3
+* d\_production\_altname\_type	3
+* d\_user\_preference	2
+* d\_biblio\_persontype	2
+* d\_institution	0
+* d\_biblio\_identifier\_type	0
+* d\_altname\_type	0
+* d\_component\_geographic\_affiliation	0
+* d\_person\_affiliation	0
+* d\_person\_group	0
+* d\_piece\_altnametype	0
+* d\_biblio\_authortype	0
+* d\_place\_altnametype	0
+* d\_repository	0
