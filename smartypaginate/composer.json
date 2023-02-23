@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jgreidy/SmartyPaginate"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^2.6",
+        "smartypaginate/smartypaginate": "^1.7"
+    }
+}
